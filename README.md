@@ -4,7 +4,7 @@ A responsive, modern blog application built with React, TypeScript, and Tailwind
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-demo-link.vercel.app) <!-- Add your deployment URL here -->
+[View Live Demo](https://buguard-frontend-internship-assessm.vercel.app/)
 
 ## ✨ Features
 
@@ -105,7 +105,7 @@ src/
 
 4. **Open in browser**
    ```
-   http://localhost:5173
+   http://localhost:8000
    ```
 
 ### Build for Production
@@ -168,17 +168,6 @@ The application integrates with JSONPlaceholder API for dynamic content:
 - **Navigation**: Responsive menu system
 - **Forms**: Accessible form elements with validation
 
-### 🖼️ Images
-
-All images are stored locally in `public/images/` directory:
-
-- **Blog Post Images**: Thumbnails for blog posts and articles
-- **Grid System Illustrations**: Detailed images for the grid system blog post
-- **Placeholder Files**: Currently using placeholder images - replace with actual content
-
-See `public/images/README.md` for detailed image information.
-
-### 🔧 Development
 
 ### Available Scripts
 
@@ -193,34 +182,6 @@ See `public/images/README.md` for detailed image information.
 - **ESLint**: Code linting for consistency
 - **Prettier**: Code formatting
 - **Responsive Design**: Mobile-first approach
-
-## 🚀 Deployment
-
-### Vercel (Recommended)
-
-1. Connect your GitHub repository to Vercel
-2. Configure build settings:
-   - Build Command: `npm run build`
-   - Output Directory: `dist`
-3. Deploy automatically on push to main
-
-### Netlify
-
-1. Build the project: `npm run build`
-2. Deploy the `dist` folder to Netlify
-3. Configure redirects for SPA routing
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
